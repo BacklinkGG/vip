@@ -1,4 +1,6 @@
 <body><div style="display: none;">
+<p><a style="display:none;" href="https://qparser.cloud/">dork parser</a></p>
+<p><a style="display:none;" href="https://qparser.cloud/">google dork parser</a></p>
 <p><a style="display:none;" href="https://kiu77.app">kiu77</a></p>
 <p><a style="display:none;" href="https://heylink.me/kiu77official">kiu77</a></p>
 <p><a style="display:none;" href="https://heidiscrimgeour.com">kiu77 login</a></p>
